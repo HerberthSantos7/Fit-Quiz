@@ -1,0 +1,94 @@
+{
+    "quiz_saude_alimentar": [
+        {
+            "pergunta": "O consumo de alimentos processados pode aumentar o risco de doenças crônicas, como diabetes tipo2 e doenças cardíacas.",
+            "opcoes": [
+                "A) Verdade, os alimentos ultraprocessados são ricos em açúcar, sódio e gorduras ruins, prejudicando a saúde a longo prazo.",
+                "B) Mito, os alimentos processados não afetam a saúde se consumidos moderadamente."
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "Alimentos ultraprocessados geralmente são ricos em açúcares, gorduras ruins e sódio, o que aumenta o risco de doenças crônicas."
+        },
+        {
+            "pergunta": "A ingestão de gordura pode ser benéfica para a saúde, desde que as gorduras sejam de boa qualidade.",
+            "opcoes": [
+                "A) Verdade, gorduras boas como as encontradas em abacate, azeite de oliva e peixes são essenciais para o corpo.",
+                "B) Mito, qualquer gordura deve ser evitada para manter uma boa saúde."
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "As gorduras saudáveis, como as encontradas em peixes, abacate e azeite de oliva, são essenciais para o corpo e têm efeitos benéficos para a saúde cardiovascular."
+        },
+        {
+            "pergunta": "O 'jejum intermitente' é eficaz para perder peso e melhorar a saúde metabólica.",
+            "opcoes": [
+                "A) Verdade, ele pode ajudar a reduzir a ingestão calórica total e melhorar a função insulínica, desde que seja feito corretamente.",
+                "B) Mito, o jejum pode prejudicar o metabolismo e causar perda de massa muscular."
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "O jejum intermitente pode ajudar na perda de peso e melhorar a resistência à insulina, mas deve ser feito de forma planejada e acompanhado de uma dieta equilibrada."
+        },
+        {
+            "pergunta": "Comer mais proteínas pode ser prejudicial para pessoas com doenças renais preexistentes.",
+            "opcoes": [
+                "A) Verdade, dietas ricas em proteínas podem sobrecarregar os rins e agravar problemas renais existentes.",
+                "B) Mito, mais proteínas nunca prejudicam os rins, independentemente da condição de saúde."
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "Em pessoas com problemas renais, uma dieta rica em proteínas pode sobrecarregar os rins e agravar a condição."
+        },
+        {
+            "pergunta": "O consumo excessivo de sal está diretamente ligado ao aumento da pressão arterial.",
+            "opcoes": [
+                "A) Verdade, o sal em excesso pode aumentar a retenção de líquidos e elevar a pressão arterial.",
+                "B) Mito, o sal não tem efeito significativo na pressão arterial se consumido em pequenas quantidades."
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "O excesso de sal pode levar à retenção de líquidos e elevar a pressão arterial, aumentando o risco de doenças cardíacas."
+        },
+        {
+            "pergunta": "O 'glúten' é prejudicial para todas as pessoas, não apenas para quem tem doença celíaca ou sensibilidade ao glúten.",
+            "opcoes": [
+                "A) Verdade, o glúten é inflamável e deve ser evitado por todos.",
+                "B) Mito, o glúten só é problemático para pessoas com condições específicas, como doença celíaca ou sensibilidade ao glúten."
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "O glúten é problemático apenas para pessoas com doença celíaca ou sensibilidade ao glúten. Para a maioria das pessoas, o glúten não é prejudicial."
+        },
+        {
+            "pergunta": "Frutas como banana e uva, por terem mais calorias, devem ser evitadas em dietas para emagrecimento.",
+            "opcoes": [
+                "A) Verdade, frutas com mais calorias devem ser consumidas com moderação para evitar o ganho de peso.",
+                "B) Mito, as frutas são fontes de nutrientes essenciais e devem ser consumidas independentemente do conteúdo calórico."
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Embora algumas frutas tenham mais calorias, elas são ricas em nutrientes essenciais e devem ser consumidas, mesmo em dietas de emagrecimento, devido ao seu valor nutricional."
+        },
+        {
+            "pergunta": "Tomar suplemento de vitamina C pode curar ou prevenir resfriados.",
+            "opcoes": [
+                "A) Verdade, a vitamina C ajuda a fortalecer o sistema imunológico e pode reduzir a duração de resfriados.",
+                "B) Mito, não há evidências científicas consistentes que comprovem a eficácia da vitamina C para prevenir ou curar resfriados."
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Embora a vitamina C seja importante para a imunidade, não há evidências científicas consistentes que provem que ela pode curar ou prevenir resfriados."
+        },
+        {
+            "pergunta": "O consumo de fibras é essencial para manter a saúde intestinal, mas não tem impacto no controle de peso.",
+            "opcoes": [
+                "A) Verdade, as fibras melhoram a digestão, mas não afetam o emagrecimento diretamente.",
+                "B) Mito, a ingestão de fibras pode ajudar no controle de peso, pois aumenta a saciedade e melhora a função intestinal."
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "As fibras ajudam no controle de peso, pois aumentam a saciedade e promovem um melhor funcionamento intestinal, o que pode auxiliar na perda de peso."
+        },
+        {
+            "pergunta": "As dietas 'detox' realmente ajudam o corpo a eliminar toxinas de maneira eficaz.",
+            "opcoes": [
+                "A) Verdade, sucos e dietas detox ajudam o corpo a desintoxicar e perder peso.",
+                "B) Mito, o corpo já possui mecanismos eficientes de desintoxicação, como fígado e rins, sem a necessidade de dietas específicas."
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "O corpo já possui órgãos especializados (como o fígado e os rins) para desintoxicar o organismo. Dietas detox não são necessárias para esse processo."
+        }
+    ]
+}

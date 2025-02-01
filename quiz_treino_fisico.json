@@ -1,0 +1,94 @@
+{
+    "quiz_treino_fisico": [
+        {
+            "pergunta": "Levantar pesos vai deixar as mulheres 'grandes' e musculosas.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Mulheres geralmente não têm níveis tão elevados de testosterona quanto os homens, o que dificulta o ganho de massa muscular muito grande. O treino com pesos ajuda a tonificar e fortalecer, mas não deixa as mulheres 'musculosas' de forma exagerada."
+        },
+        {
+            "pergunta": "Fazer cardio em jejum ajuda a queimar mais gordura.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Embora o cardio em jejum possa aumentar a queima de gordura, ele não é necessariamente mais eficaz que fazer cardio após uma refeição. O mais importante é a consistência no treino e na dieta."
+        },
+        {
+            "pergunta": "É melhor treinar todos os dias para alcançar resultados rápidos.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "O descanso é fundamental para o corpo se recuperar e crescer. Treinar todos os dias sem descanso pode levar a overtraining e aumentar o risco de lesões. O ideal é treinar de forma equilibrada e respeitar os períodos de descanso."
+        },
+        {
+            "pergunta": "Alongamento antes de treinar pode prevenir lesões.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Alongamentos estáticos (aqueles em que você mantém uma posição por um tempo) não são tão eficazes para prevenir lesões antes do treino. O ideal é fazer um aquecimento dinâmico, que prepare o corpo para o movimento."
+        },
+        {
+            "pergunta": "A proteína é essencial para o crescimento muscular, e deve ser consumida logo após o treino.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "A proteína é crucial para a recuperação muscular e o crescimento. Consumir proteína após o treino ajuda a reparar as fibras musculares e promove o aumento de massa muscular."
+        },
+        {
+            "pergunta": "Fazer abdominais vai ajudar a queimar a gordura da barriga.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "Abdominais fortalecem a musculatura da região abdominal, mas não queimam especificamente a gordura da barriga. A perda de gordura ocorre de maneira geral no corpo, e depende da dieta e do déficit calórico."
+        },
+        {
+            "pergunta": "Para ganhar massa muscular, é necessário consumir uma quantidade significativa de calorias acima da sua necessidade diária.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "Para ganhar massa muscular, é necessário um superávit calórico, ou seja, consumir mais calorias do que o corpo gasta. Isso fornece a energia necessária para a construção de novos músculos."
+        },
+        {
+            "pergunta": "A hipertrofia muscular (crescimento muscular) ocorre durante o treino.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "B) Mito",
+            "explicacao": "A hipertrofia acontece durante o descanso, quando os músculos se recuperam e se reparam. O treino provoca microlesões nos músculos, mas é no repouso que ocorre o crescimento."
+        },
+        {
+            "pergunta": "Treinar com pesos pode aumentar a flexibilidade.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "O treino de força pode aumentar a flexibilidade, especialmente quando feito de maneira controlada, com amplitude de movimento adequada. Alguns exercícios, como os de agachamento, podem melhorar a flexibilidade das articulações."
+        },
+        {
+            "pergunta": "O descanso é importante tanto quanto o treino para alcançar resultados.",
+            "opcoes": [
+                "A) Verdade",
+                "B) Mito"
+            ],
+            "resposta_correta": "A) Verdade",
+            "explicacao": "O descanso é fundamental para a recuperação muscular e prevenção de lesões. É durante o descanso que o corpo se adapta ao treino e cresce."
+        }
+    ]
+}
