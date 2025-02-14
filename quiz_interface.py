@@ -71,7 +71,7 @@ class QuizApp:
         self.selected_answer = tk.StringVar()  # Variável para armazenar a resposta selecionada
         self.create_radio_buttons()
 
-        self.submit_button = tk.Button(self.frame, text="Submit", command=self.check_answer, font=("Helvetica", 12))
+        self.submit_button = tk.Button(self.frame, text="Proxima Pergunta", command=self.check_answer, font=("Helvetica", 12))
         self.submit_button.pack(pady=20, anchor="center")
 
     def create_radio_buttons(self):
