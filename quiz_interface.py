@@ -69,16 +69,19 @@ class QuizApp:
         self.question_label.pack(pady=10, anchor="center")
 
         self.selected_answer = tk.StringVar()  # Variável para armazenar a resposta selecionada
+        self.radio_frame = tk.Frame(self.frame)
+        self.radio_frame.pack(anchor="center")
+
         self.create_radio_buttons()
 
-        self.submit_button = tk.Button(self.frame, text="Proxima Pergunta", command=self.check_answer, font=("Helvetica", 12))
+        self.submit_button = tk.Button(self.frame, text="Próxima Pergunta", command=self.check_answer, font=("Helvetica", 12))
         self.submit_button.pack(pady=20, anchor="center")
 
     def create_radio_buttons(self):
         self.choice_vars = []
         self.radio_buttons = []
         for choice in self.perguntas[self.current_question]["opcoes"]:
-            radio = tk.Radiobutton(self.frame, text=choice, variable=self.selected_answer, value=choice, wraplength=600, justify="left", font=("Helvetica", 12))
+            radio = tk.Radiobutton(self.radio_frame, text=choice, variable=self.selected_answer, value=choice, wraplength=600, justify="left", font=("Helvetica", 12))
             radio.pack(anchor="w", pady=5)
             self.radio_buttons.append(radio)
 
